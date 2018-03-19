@@ -35,4 +35,4 @@ if($_GET['url'] != ""){
 	</script>
 
 </body>
-</html>
+</html> 
